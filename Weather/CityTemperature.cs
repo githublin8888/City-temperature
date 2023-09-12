@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Weather
 {
-    internal class City
+    internal class CityTemperature
     {
         public string name; //declare two attributes: the name of city, the temperature
         public int temp;
